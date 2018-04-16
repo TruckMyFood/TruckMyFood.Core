@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckMyFood.Android", "TruckMyFood\TruckMyFood.Android\TruckMyFood.Android.csproj", "{056E5E7C-0587-433E-82C4-4B22128C5BE7}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TruckMyFood", "TruckMyFood\TruckMyFood\TruckMyFood.shproj", "{9871AEBF-B851-42A3-98D6-39A9878C0D15}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TruckMyFood\TruckMyFood\TruckMyFood.projitems*{056e5e7c-0587-433e-82c4-4b22128c5be7}*SharedItemsImports = 4
+		TruckMyFood\TruckMyFood\TruckMyFood.projitems*{9871aebf-b851-42a3-98d6-39a9878c0d15}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056E5E7C-0587-433E-82C4-4B22128C5BE7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FBF648-6A7E-4FD3-8CD1-4077225770F3}
+	EndGlobalSection
+EndGlobal
